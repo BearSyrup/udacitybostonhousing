@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
@@ -44,3 +45,6 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 
 **Target Variable**
 4. `MEDV`: median value of owner-occupied homes
+=======
+# udacitybostonhousing
+>>>>>>> c49e3be0fa9715ab834a305f2ed0420b08a09ca4
